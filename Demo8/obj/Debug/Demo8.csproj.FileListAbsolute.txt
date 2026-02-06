@@ -1,0 +1,12 @@
+C:\Users\rusol\source\repos\Demo8\Demo8\bin\Debug\Demo8.exe.config
+C:\Users\rusol\source\repos\Demo8\Demo8\bin\Debug\Demo8.exe
+C:\Users\rusol\source\repos\Demo8\Demo8\bin\Debug\Demo8.pdb
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.csproj.AssemblyReference.cache
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.FormAuth.resources
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.Properties.Resources.resources
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.csproj.GenerateResource.cache
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.csproj.CoreCompileInputs.cache
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.exe
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.pdb
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.FormProduct.resources
+C:\Users\rusol\source\repos\Demo8\Demo8\obj\Debug\Demo8.FormAdd.resources
